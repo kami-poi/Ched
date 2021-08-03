@@ -333,4 +333,13 @@
   <data name="ResetAll" xml:space="preserve">
     <value>重置</value>
   </data>
+  <data name="GuideVolume" xml:space="preserve">
+    <value>键音音量</value>
+  </data>
+  <data name="MusicVolume" xml:space="preserve">
+    <value>歌曲音量</value>
+  </data>
+  <data name="SlowDownPreview" xml:space="preserve">
+    <value>慢速预览</value>
+  </data>
 </root>
